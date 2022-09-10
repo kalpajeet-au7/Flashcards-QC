@@ -1,4 +1,5 @@
 A full-stack web application to create flash cards for memorization and to practice quizzing. Customized topics in user account.
+Created using Flask.
 
 
 **To run:**
